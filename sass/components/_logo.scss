@@ -1,0 +1,12 @@
+.logo {
+    font-family: var(--second-font);
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.192;
+    text-decoration: none;
+    color: var(--main-text);
+  
+    &-begin {
+    color: var(--blue-elements);
+    }
+  }
